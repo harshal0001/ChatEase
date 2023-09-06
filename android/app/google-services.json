@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "273561063332",
+    "project_id": "chat-ease-application",
+    "storage_bucket": "chat-ease-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273561063332:android:97297100da707a238c7b31",
+        "android_client_info": {
+          "package_name": "com.example.chat_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273561063332-oatjroals9r02t697dh71offb32gqa8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmk5uD7FV5bwITJQPT_RcmiK29eGEQMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273561063332-oatjroals9r02t697dh71offb32gqa8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273561063332-sl3a3a39h194e8pu32lbb7ii6v1b8j12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatEase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
